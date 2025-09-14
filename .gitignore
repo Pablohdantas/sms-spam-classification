@@ -1,0 +1,30 @@
+# Ambiente virtual
+.venv/
+venv/
+env/
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Configurações do Jupyter
+.ipynb_checkpoints/
+
+# Dependências (caso use cache de pacotes)
+*.egg-info/
+.eggs/
+
+# VS Code configs
+.vscode/
+*.code-workspace
+
+# Arquivos de sistema
+Thumbs.db
