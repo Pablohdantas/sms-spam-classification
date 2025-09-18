@@ -31,4 +31,4 @@ Ao final do projeto, conseguimos realizar as predições de spam ou ham, medir v
 ### Sobre a Atividade 📚
 **Disciplina**: Inteligência Artifical.  
 **Docente**: Ronierison de Souza Maciel.  
-**Aluno**: Pablo Henrique Dantas de Sá.
+**Alunos**: Pablo Henrique Dantas de Sá e Thiago Ferreira Batista dos Santos.
